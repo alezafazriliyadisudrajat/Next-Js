@@ -40,8 +40,7 @@ const Navbar = () => {
               y="50%" 
               dominantBaseline="middle" 
               textAnchor="middle"
-              className="text-3xl font-bold fill-current text-white" // Sesuaikan warna dengan teks navigasi
-            >
+              className="text-3xl font-bold fill-current text-white"     >
               ZA
             </text>
           </svg>
